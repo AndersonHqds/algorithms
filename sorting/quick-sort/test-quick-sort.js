@@ -14,4 +14,5 @@ const grades = [
 ];
 
 quickSort(grades, 0, grades.length);
+
 console.log(grades);
